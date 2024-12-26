@@ -1,0 +1,3 @@
+[submodule "ail-framework"]
+	path = ail-framework
+	url = https://github.com/ail-project/ail-framework.git
